@@ -1,3 +1,6 @@
+/*
+*响应的数据如果带中文不使用此类，将出现乱码。
+*/
 package com.example.administrator.myapplication;
 
 import com.android.volley.NetworkResponse;
